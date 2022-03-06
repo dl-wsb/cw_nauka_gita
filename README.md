@@ -1,1 +1,2 @@
 jeden jeden
+dwa dwa
